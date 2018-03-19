@@ -6,10 +6,6 @@ Yii2 高级模板，配置的后台样式
 [![License](https://poser.pugx.org/izyue/yii2-app-advanced/license)](https://packagist.org/packages/izyue/yii2-app-advanced)
 [![Daily Downloads](https://poser.pugx.org/izyue/yii2-app-advanced/d/daily)](https://packagist.org/packages/izyue/yii2-app-advanced)
 
-### 作者博客
-
-[https://www.izyue.com/yii2-admin](http://www.izyue.com/yii2-admin/)
-
 ### 简介
 
 系统基于yii2.0框架开发，保留框架原有的特性，适合作为二次开发的基础系统，也可以直接拿来作为后台系统。管理系统的模块在不断完善中，现有的功能包含，完整的RBAC权限管理~
@@ -34,8 +30,7 @@ Yii2 高级模板，配置的后台样式
 ---
 
 ```
-php composer.phar global require "fxp/composer-asset-plugin:~1.1.1"
-php composer.phar create-project --prefer-dist izyue/yii2-app-advanced advanced
+git clone https://github.com/chenqianfang/advanced.git
 ```
 
 #### 2. 安装Composer
